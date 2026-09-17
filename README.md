@@ -33,3 +33,22 @@ Exercise solution in `exercise1.py`
 Noted that sorting parallel lists separately breaks their correspondence; zip() is the right tool.
 
 Exercise solution in `exercise2.py`
+
+## Lesson 3 - For Loops & Conditional statements
+
+* Create a for loop and use it to repeat a section of code
+
+* Use if, elif, and else statements to make decisions in your programs
+
+* Explain how values can be compared using comparison operators
+
+* Write readable code following PEP 8 style guidelines
+
+Exercise solution in files:
+  `exercise3.1.py`
+  `exercise3.2.py`
+  `exercise3.3.1.py` (the way the course teaches)
+  `exercise3.3.2.py` (my way)
+  `exercise3.4.py`
+
+Note: for Problem 3.3 I implemented both the index-based approach (as taught) and a cleaner `zip`-based version, to compare readability.
