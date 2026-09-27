@@ -52,3 +52,19 @@ Exercise solution in files:
   `exercise3.4.py`
 
 Note: for Problem 3.3 I implemented both the index-based approach (as taught) and a cleaner `zip`-based version, to compare readability.
+
+## Lesson 4 - Functions
+
+* Explain how functions are used and their benefits
+
+* Describe the pros and cons of using generative AI in producing code
+
+* Create your own functions to calculate an output value based on an input value
+
+* Save functions to a script file for future use
+
+Exercise solution in files:
+`exercise4.1.py`
+`exercise4.2.py`
+`exercise4.3.py`
+`temp_functions.py`
