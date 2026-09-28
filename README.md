@@ -68,3 +68,17 @@ Exercise solution in files:
 `exercise4.2.py`
 `exercise4.3.py`
 `temp_functions.py`
+
+## Lesson 5 - Pandas
+
+* Read and explore tabular data in Python (using the pandas library)
+
+* Do simple data analysis using pandas data structures and functions
+
+* Write data to a .csv text file
+
+Exercise solution in files:
+`exercise5.1.py`
+`exercise5.2.py`
+`exercise5.3.py`
+`exercise5.4.py`
