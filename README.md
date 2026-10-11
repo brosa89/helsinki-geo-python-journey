@@ -82,3 +82,18 @@ Exercise solution in files:
 `exercise5.2.py`
 `exercise5.3.py`
 `exercise5.4.py`
+
+## Lesson 6 - Pandas II
+
+* Analyze data in Python using pandas
+
+* Repeat an analysis workflow for several input files
+
+* Understand common Python errors
+
+* Follow a simple set of guidelines to debug programs efficiently
+
+Exercise solution in files:
+`exercise6.1.py`
+`exercise6.2.py`
+`exercise6.3.py`
