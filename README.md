@@ -109,3 +109,12 @@ Exercise solution in files:
 Exercise solution in files:
 `exercise7.1.py`
 `exercise7.2.py`
+
+## Final Exercise
+
+## Geo-Python 2026 final exercise
+
+The final exercise in the Geo-Python course involves calculating and plotting seasonal weather anomalies to see how temperatures have changed in different seasons over the past 100+ years. We will be using weather data from the Sodankylä weather station in northern Finland.
+
+Exercise solution in files:
+`final_exercise.py`
