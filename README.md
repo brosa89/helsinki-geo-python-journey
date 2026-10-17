@@ -97,3 +97,15 @@ Exercise solution in files:
 `exercise6.1.py`
 `exercise6.2.py`
 `exercise6.3.py`
+
+## Lesson 7 - Plothing in Python
+
+* Make basic x-y plots of data using pandas/Matplotlib
+
+* Manipulate plot formatting
+
+* Create plots in Jupyter notebooks and/or save them as image files
+
+Exercise solution in files:
+`exercise7.1.py`
+`exercise7.2.py`
